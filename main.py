@@ -13,8 +13,8 @@ import os
 
 ENTRY = (
     "Six months of 3 a.m. pages, 41 failed deploys, one patient on-call buddy — "
-    "last Tuesday the pipeline went green on the first try. I built that. "
-    "Every green checkmark is mine."
+    "then last Tuesday the pipeline went green on the first try. I built that. "
+    "No one handed it to me."
 )
 
 OUT_PATH = "/output/entry.txt"
